@@ -484,4 +484,4 @@ Error Code|Description
 `ambiguousAddendumType`|The transaction contains data for multiple addendum types at the same time.
 `currencyInconsistency`|The transaction contains inconsistencies between the transaction currency and other currency fields.
 `illegalBillingAccount`|Billing account reference must not be present for the given account type.
-`missingBillingAccount`|Billing account reference must be present for the given account type
+`missingBillingAccount`|Billing account reference must be present for the given account type.
